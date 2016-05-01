@@ -14,7 +14,7 @@ public class Calculator {
 
 		Fraction f1 = new Fraction(1,3);
 		Fraction f2 = new Fraction(7,6);
-		Fraction f3 = Action.add(f1, f2);
+		Fraction f3 = Action.subt(f1, f2);
 		Print.print(f3);
 		
 	}

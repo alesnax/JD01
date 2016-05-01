@@ -7,7 +7,6 @@ public class Sweet {
 	
 	private boolean isTasty;
 	
-	
 	public Sweet(String name, double value, int happiness, int weight, boolean tasty) {
 		this.value = value;
 		this.name = name;
@@ -37,10 +36,4 @@ public class Sweet {
 	public boolean isTasty() {
 		return isTasty;
 	}
-	
-	
-	
-	
-	
-
 }

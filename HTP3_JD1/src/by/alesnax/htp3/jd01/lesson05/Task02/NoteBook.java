@@ -57,13 +57,4 @@ public class NoteBook {
 			System.out.println("Записи \"" + note + "\" в блокноте нет!");
 		}
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-
 }

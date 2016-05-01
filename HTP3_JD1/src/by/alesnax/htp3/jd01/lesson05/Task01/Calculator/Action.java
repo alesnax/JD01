@@ -13,21 +13,21 @@ public class Action {
 		return reduct(fr);
 	}
 	
-	public Fraction subt(Fraction f1, Fraction f2){		//subtraction
+	public static Fraction subt(Fraction f1, Fraction f2){		//subtraction
 		Fraction fr = new Fraction(0,0);
 		fr.setDen(nok(f1.getDen(), f2.getDen()));
 		fr.setNum((f1.getNum() * fr.getDen() / f1.getDen() - f2.getNum() * fr.getDen() / f2.getDen()));
 		return reduct(fr);
 	}
 	
-	public Fraction mult(Fraction f1, Fraction f2){		//multiply
+	public static Fraction mult(Fraction f1, Fraction f2){		//multiply
 		Fraction fr = new Fraction(0,0);
 		fr.setDen(f1.getDen() * f2.getDen());
 		fr.setNum(f1.getNum() * f2.getNum());	
 		return reduct(fr);
 	}
 	
-	public Fraction div(Fraction f1, Fraction f2){		//division
+	public static Fraction div(Fraction f1, Fraction f2){		//division
 		Fraction fr = new Fraction(0,0);
 		fr.setDen(f1.getDen() * f2.getNum());
 		fr.setNum(f1.getNum() * f2.getDen());	
