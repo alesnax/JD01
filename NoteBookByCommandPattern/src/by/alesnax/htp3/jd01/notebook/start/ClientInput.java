@@ -1,4 +1,4 @@
-package by.alesnax.htp3.jd01.notebook.ControllerClientHelper;
+package by.alesnax.htp3.jd01.notebook.start;
 
 import java.util.Scanner;
 

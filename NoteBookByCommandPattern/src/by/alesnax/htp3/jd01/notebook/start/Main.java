@@ -1,9 +1,5 @@
 package by.alesnax.htp3.jd01.notebook.start;
 
-
-import by.alesnax.htp3.jd01.notebook.ControllerClientHelper.ClientInput;
-
-
 public class Main {
 	public static void main(String[] args) {
 		

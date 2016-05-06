@@ -1,9 +1,6 @@
-package by.alesnax.htp3.jd01.notebook.storage;
+package by.alesnax.htp3.jd01.notebook.bean;
 
 import java.util.ArrayList;
-
-
-import by.alesnax.htp3.jd01.notebook.bean.NoteBook;
 
 public final class Book1 extends NoteBook{
 

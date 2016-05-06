@@ -5,10 +5,10 @@ package by.alesnax.htp3.jd01.notebook.service.impl;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import by.alesnax.htp3.jd01.notebook.bean.Book1;
 import by.alesnax.htp3.jd01.notebook.bean.Note;
 import by.alesnax.htp3.jd01.notebook.bean.NoteBook;
 import by.alesnax.htp3.jd01.notebook.service.NoteBookService;
-import by.alesnax.htp3.jd01.notebook.storage.Book1;
 
 
 

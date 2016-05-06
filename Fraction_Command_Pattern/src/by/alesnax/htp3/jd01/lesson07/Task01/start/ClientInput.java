@@ -1,4 +1,4 @@
-package by.alesnax.htp3.jd01.lesson07.Task01.ControllerClientHelper;
+package by.alesnax.htp3.jd01.lesson07.Task01.start;
 
 import java.util.Scanner;
 import by.alesnax.htp3.jd01.lesson07.Task01.Controller.Controller;

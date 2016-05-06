@@ -1,4 +1,4 @@
-package by.alesnax.htp3.jd01.lesson07.Task01.ControllerClientHelper;
+package by.alesnax.htp3.jd01.notebook.start;
 
 public class PrintIstruction {
 	
@@ -11,10 +11,9 @@ public class PrintIstruction {
 	}
 	
 	public static void instruction(){
-		System.out.println("For addition two fractions, please press '1' button");
-		System.out.println("For subtraction two fractions, please press '2' button");
-		System.out.println("For multiplying two fractions, please press '3' button");
-		System.out.println("For division two fractions, please press '4' button");
+		System.out.println("For adding new note, please press '1' button");
+		System.out.println("For printing all notes, please press '2' button");
+		System.out.println("For finding definite note, please press '3' button");
 		System.out.println("Press default button to escape into main Menu");
 	}
 	

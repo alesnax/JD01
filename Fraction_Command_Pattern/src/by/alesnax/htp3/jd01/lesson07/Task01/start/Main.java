@@ -1,10 +1,5 @@
 package by.alesnax.htp3.jd01.lesson07.Task01.start;
 
-//import by.alesnax.htp3.jd01.lesson07.Task01.Controller.Controller;
-import by.alesnax.htp3.jd01.lesson07.Task01.ControllerClientHelper.ClientInput;
-//import by.alesnax.htp3.jd01.lesson07.Task01.bean.Request;
-//import by.alesnax.htp3.jd01.lesson07.Task01.bean.Responce;
-
 public class Main {
 
 	public static void main(String[] args) {
